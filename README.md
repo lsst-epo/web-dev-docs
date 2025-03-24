@@ -1,12 +1,5 @@
-# Web Development for LSST EPO: A How To
+# Rubin EPO Developer Documentation
 
 ## Introduction
+This repo serves as a centralized place for onboarding, documentation, and how-tos for Rubin EPO developers.
 
-### Table of Contents
-
-##### In General
-##### The Website
-##### Formal Education Investigations
-* The Mission
-* The Design
-* The Stack
